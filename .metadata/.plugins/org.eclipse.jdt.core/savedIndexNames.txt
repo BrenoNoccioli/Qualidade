@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Proevento\Desktop\testes-automáticos\junit\.metadata\.plugins\org.eclipse.jdt.core
+3460880079.index
+1201096014.index
+2656427313.index
+859183287.index
